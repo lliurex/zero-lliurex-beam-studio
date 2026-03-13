@@ -1,0 +1,17 @@
+Name=zero-lliurex-beam-studio
+Name[en]=Flux' Beam Studio software
+Name[es]=Beam Studio
+Name[ca@valencia]=Beam Studio
+Name[ca_ES]=Beam Studio
+Comment= Free laser cutter software built for FLUX Lasers
+Comment[en]= Free laser cutter software built for FLUX Lasers
+Comment[es]= Aplicación gratuita para las cortadores laser FLUX
+Comment[ca@valencia]=Programari gratuït per a les talladores laser FLUX
+Comment[ca_ES]=Programari gratuït per a les talladores laser FLUX
+Icon=zero-lliurex-beam-studio
+Category=Software
+ScriptPath=zero-lliurex-beam-studio.zmd
+Service=False
+Locks=zero-lliurex-beam-studio
+Groups=*;
+Show=False

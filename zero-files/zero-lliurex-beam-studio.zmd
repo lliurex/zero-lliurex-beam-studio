@@ -1,0 +1,3 @@
+#!/bin/bash
+
+epi-gtk /usr/share/zero-lliurex-beam-studio/beam-studio.epi $1

@@ -1,0 +1,9 @@
+{
+	"type":"file",
+	"pkg_list":[{"name":"beam-studio","custom_name":"Free laser cutter software built for FLUX Lasers","custom_icon":"beam.png"}],
+	"script":{"name":"/usr/share/zero-lliurex-beam-studio/beam-studio_script","remove":true,"download":true,"getStatus":true},
+	"custom_icon_path":"/usr/share/zero-lliurex-beam-studio/",
+	"zomando":"zero-lliurex-beam-studio",
+	"check_zomando_state":false
+
+}
