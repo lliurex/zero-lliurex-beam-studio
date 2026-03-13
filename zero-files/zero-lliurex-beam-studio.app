@@ -11,6 +11,7 @@ Comment[ca_ES]=Programari gratuït per a les talladores laser FLUX
 Icon=zero-lliurex-beam-studio
 Category=Software
 ScriptPath=zero-lliurex-beam-studio.zmd
+Using=pkexec
 Service=False
 Locks=zero-lliurex-beam-studio
 Groups=*;
