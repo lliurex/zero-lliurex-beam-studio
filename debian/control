@@ -1,0 +1,13 @@
+Source: zero-lliurex-beam-studio
+Section: x11
+Priority: optional
+Maintainer: Equipo LliureX <lliurex@gva.es>
+Build-Depends: debhelper (>= 10), zero-dev, llxsrchelper,inkscape (>= 0.47)
+Standards-Version: 4.1.2
+
+Package: zero-lliurex-beam-studio
+Architecture: all
+Section: x11
+Depends: zero-center,epi-gtk
+Description: Beam Studio
+  Software for FLUX laser cutters
